@@ -7,3 +7,6 @@
 - [tcp粘包问题](http://www.cnblogs.com/QG-whz/p/5537447.html)
 ## iOS知识点
 - [KVO](http://nshipster.cn/key-value-observing/)
+- [内存管理](http://www.cocoachina.com/ios/20160219/15330.html)
+- [引用计数原理](http://www.cocoachina.com/ios/20160112/14933.html)
+
