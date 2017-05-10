@@ -11,3 +11,4 @@
 - [引用计数原理](http://www.cocoachina.com/ios/20160112/14933.html)
 - [RunLoop](http://devthinking.com/%E7%9C%8B-cfrunloop%E6%BA%90%E7%A0%81%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-runloop/)
 - [iOS进阶系列之基础篇](http://devthinking.com/ios%E8%BF%9B%E9%98%B6%E7%B3%BB%E5%88%97%E4%B9%8B%E5%9F%BA%E7%A1%80/)
+- 设计模式，算法
